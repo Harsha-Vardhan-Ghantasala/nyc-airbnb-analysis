@@ -3,15 +3,17 @@
 </p>
 
 
-# NYC Airbnb Listings Analysis 🏙️
+# NYC Airbnb Listings Analysis
 
 An end-to-end data analysis project exploring Airbnb listings in New York City using SQL, Python, Excel, and Tableau.
 
 ---
 
-## 📌 Overview
+## Overview
 
-This project analyzes 27,000+ Airbnb listings to uncover patterns in pricing, host behavior, property types, and review ratings. Key areas include:
+This project analyzes over 27,000 Airbnb listings to uncover patterns in pricing, host behavior, property types, and customer ratings.  
+Key analysis areas include:
+
 - Host insights (Superhost vs Non-superhost)
 - Property and room type trends
 - Neighborhood-level analysis
@@ -19,21 +21,39 @@ This project analyzes 27,000+ Airbnb listings to uncover patterns in pricing, ho
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
-- **SQL** – Data cleaning, transformation, procedures
-- **Python** – Correlation analysis using Pandas, Seaborn
-- **Excel** – Data mapping and validation
-- **Tableau** – Interactive visual dashboard
-- **Mapbox** – Geo-visualization of listings
+- **SQL** – Data cleaning, transformation, and stored procedures  
+- **Python** – Correlation analysis using pandas and seaborn  
+- **Excel** – Data mapping and manual validation  
+- **Tableau** – Visual dashboard creation  
+- **Mapbox** – Geo-visualization of NYC neighborhoods
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
-- Superhosts maintain higher ratings and response rates
-- Private rooms dominate in volume and review count
-- Weak positive correlation between higher price and better reviews
-- Room and property types impact review scores
+- Superhosts generally maintain higher ratings and quicker response times  
+- Private rooms are the most commonly listed room type  
+- A weak positive correlation exists between higher price and better reviews  
+- Review scores are influenced by room type and property category  
 
+---
 
+## Project Files
+
+- `Airbnb_correlation.ipynb` – Python analysis script  
+- `SQLQuery_Airbnb_NewYork.sql` – Data queries and filters  
+- `Updated Neighbourhoods.xlsx` – Mapping and corrections  
+- `listings New York.gz` – Source dataset (compressed)  
+- `nyc_airbnb.png` – Project banner  
+- `Screenshots_*.png` – Tableau dashboard previews  
+
+---
+
+## Author
+
+**Sai Harsha Vardhan Ghantasala**  
+Master's in Computer Engineering – University of Dayton  
+[LinkedIn](https://linkedin.com/in/harshaghantasala)  
+Email: harshavardhanghantasala@gmail.com
