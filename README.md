@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="nyc_airbnb.png" alt="NYC Airbnb Banner" width="100%">
+</p>
+
+
 # NYC Airbnb Listings Analysis 🏙️
 
 An end-to-end data analysis project exploring Airbnb listings in New York City using SQL, Python, Excel, and Tableau.
